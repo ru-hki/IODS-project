@@ -9,5 +9,5 @@
 date()
 
 ```
-I'm expecting to learn how to use R to analyze data. I found the course in Sisu.Regarding the step by step introduction in R for Health Data Science, I got a good basis for continuing with R.
+I'm expecting to learn how to use R to analyze data. I found the course in Sisu.Regarding the step by step introduction in R for Health Data Science, I got a good basis for continuing with R.I had some difficulties starting, but I'll take it as part of the learning experience.
 
