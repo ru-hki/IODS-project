@@ -1,13 +1,13 @@
 
-# About the project
+# Starting the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+*After an immersive crash course on modern R tools and RStudio, I'm excited to create this test project in the IODS course. Link to my project's GitHub repository: https://github.com/ru-hki/IODS-project *
 
 ```{r}
-# This is a so-called "R chunk" where you can write R code.
+# This is a so-called "R chunk" where you can write R code. Overall, this is an R Markdown (.Rmd) file so you should use R Markdown syntax.
 
 date()
 
 ```
-The text continues here.
+I'm expecting to learn how to use R to analyze data. I found the course in Sisu.Regarding the step by step introduction in R for Health Data Science, I got a good basis for continuing with R.
 

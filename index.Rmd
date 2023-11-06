@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Mira Ruokolainen"
 output:
   html_document:
     theme: cosmo
